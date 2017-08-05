@@ -8,8 +8,7 @@ Generate Chinese poem automatically.
 * Flask
 * jieba
 * sklearn
-
-- sudo pip3 install flask,jieba,sklearn
+- `sudo pip3 install flask,jieba,sklearn`
 
 ## Usage
 
@@ -25,7 +24,7 @@ python3 get_start_words.py
 Next time, just run this command.
 
 ```bash
-python index.py
+python3 index.py
 ```
 
 ## Data
