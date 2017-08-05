@@ -9,15 +9,17 @@ Generate Chinese poem automatically.
 * jieba
 * sklearn
 
+- sudo pip3 install flask,jieba,sklearn
+
 ## Usage
 
 For the first time, run the commands below to init.
 
 ```bash
-python preprocess.py
-python get_collocations.py
-python get_topic.py
-python get_start_words.py
+python3 preprocess.py
+python3 get_collocations.py
+python3 get_topic.py
+python3 get_start_words.py
 ```
 
 Next time, just run this command.
