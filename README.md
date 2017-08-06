@@ -8,7 +8,7 @@ Generate Chinese poem automatically.
 * Flask
 * jieba
 * sklearn
-- `sudo pip3 install flask,jieba,sklearn`
+* `sudo pip3 install flask,jieba,sklearn`
 
 ## Usage
 
@@ -30,3 +30,6 @@ python3 index.py
 ## Data
 
 In `./data` folder, there is a corpus file "唐诗语料库.txt", and some data files will be generated here.
+
+## refer
+[here](http://blog.csdn.net/lijiancheng0614/article/details/71747592)
